@@ -1,6 +1,9 @@
 Instructions
 --
 
+(This probably shouldn't matter)
+VENV: Python version 3.10.6
+
 Main:
 Inside the main folder you will find directories that seperate each part of the main project for this assignment. The report is appended to where each section ended.
 Reports for main2,3,4 should all be located at the bottom of the respective file, with the previous iterations still there, the report for main1 should be below my data processing. 
